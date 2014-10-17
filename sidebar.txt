@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yip:home|Door43 (yip)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yip|d43-yip repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yip/archive/master.zip|d43-yip.zip]]
+
+**Recent Changes**
+{{changes>ns = yip}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yip|Ethnologue data]]
+
